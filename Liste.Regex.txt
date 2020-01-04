@@ -1,0 +1,2 @@
+https://github.com/eternnoir/pihole-regex.list/blob/master/regex.list
+https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
